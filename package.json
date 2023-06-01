@@ -1,9 +1,11 @@
 {
   "name": "qm-print",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "module",
+  "files": [ "lib" ],
   "keywords": ["jspdf", "html2canvas", "pdf", "pagination"],
   "description": "can be printed in separate pages",
+  "homepage": "https://github.com/shenxuxiang/qm-print",
   "main": "./lib/qm-print.umd.cjs",
   "module": "./lib/qm-print.js",
   "types": "./lib/print.d.ts",
